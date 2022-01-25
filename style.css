@@ -1,0 +1,56 @@
+*{
+    background: black;
+    text-align: center;
+}
+
+header h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    font-weight: normal;
+    color: white;
+    text-align: center;
+
+}
+
+header h4 {
+   text-decoration: underline;
+   text-align: center;
+   color: aquamarine;
+   font-size: 16px;
+}
+
+.personal h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+.personal h4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+}
+
+.release h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    font-weight: normal;
+    color: white;
+    text-align: center;
+
+}
+
+.release h4 {
+   text-decoration: underline;
+   text-align: center;
+   color: aquamarine;
+   font-size: 16px;
+}
+
+footer p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;  
+    text-align: right;
+}
